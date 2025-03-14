@@ -1,6 +1,6 @@
 # Hello, I'm Zachary
 
-\<a href="[www.linkedin.com/in/zachary-o-6693862b4">\<img](http://www.linkedin.com/in/zachary-o-6693862b4"><img) src="[https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white\\](https://img.shields.io/badge/-LinkedIn-0072b1?\&style=for-the-badge\&logo=linkedin\&logoColor=white\\)" />
+\<a href="[www.linkedin.com/in/zachary-o-6693862b4">\<img](http://www.linkedin.com/in/zachary-o-6693862b4"><img) src="[https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white\\](https://img.shields.io/badge/-LinkedIn-0072b1?\&style=for-the-badge\&logo=linkedin\&logoColor=white\\)" /></a>
 
 I am a third year IT student with a profound interest in cybersecurity pursuing a BS degree.
 
