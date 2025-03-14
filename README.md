@@ -23,5 +23,9 @@ I am very eager to learn more about cybersecurity by the day, aiming to learn et
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Penetration Testing Lab
+- Active Directory IT Lab
+- Ubuntu Security Hardened Lab
+- System Performance Monitoring and Alerting Tool
+- Cybersecurity toolkit (in progress)
+- Cisco Packet Tracer network (in progress)
